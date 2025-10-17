@@ -83,19 +83,7 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 ---
 
-## 💼 Meus Projetos
 
-<div align="center">
-
-### 🎨 Criações Pessoais
-
-| 🎨 Projeto | 📝 Descrição | 🔗 Link | ⭐ |
-|:---:|---|:---:|:---:|
-| **Kelvenos** | 🚀 Meu portfólio, perfil e universo digital - onde compartilho minha jornada | [Ver](https://github.com/kelvenapk/kelvenos) | ![Stars](https://img.shields.io/github/stars/kelvenapk/kelvenos?style=flat-square&color=B026FF) |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -153,21 +141,6 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 ---
 
-## 💭 Filosofia de Código
-
-<div align="center">
-
-```
-✨ O código é poesia. Cada linha conta uma história.
-🔥 Performance não é um luxo, é uma necessidade.
-⭐ Qualidade > Quantidade. Sempre.
-🚀 Open Source é o futuro da tecnologia.
-```
-
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -191,39 +164,22 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 <br/>
 
-```
-✨ Made with 💜 by Kelven
-Dev Fullstack | Open Source Creator
-© 2025 - Code is Art ⚡
-```
+![Philosophy](https://img.shields.io/badge/✨%20O%20código%20é%20poesia-Cada%20linha%20conta%20uma%20história-B026FF?style=flat-square)
+
+![Performance](https://img.shields.io/badge/🔥%20Performance-Não%20é%20um%20luxo-0096FF?style=flat-square)
+
+![Quality](https://img.shields.io/badge/⭐%20Qualidade-Quantidade%20Sempre-FF0040?style=flat-square)
+
+![OpenSource](https://img.shields.io/badge/🚀%20Open%20Source-É%20o%20futuro%20da%20tecnologia-B026FF?style=flat-square)
+
+<br/><br/>
+
+![Made with Love](https://img.shields.io/badge/✨%20Made%20with%20💜%20by%20Kelven-Dev%20Fullstack%20%7C%20Open%20Source%20Creator-000000?style=for-the-badge&logo=github)
+
+![Code is Art](https://img.shields.io/badge/©%202025%20Code%20is%20Art%20⚡-Building%20the%20Future-B026FF?style=for-the-badge)
 
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=for-the-badge&label=Visitantes)
 
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.05); opacity: 0.8; }
-}
-
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 5px rgba(176, 38, 255, 0.3); }
-  50% { box-shadow: 0 0 20px rgba(176, 38, 255, 0.6); }
-}
-
-img[style*="animation: float"] {
-  animation: float 3s ease-in-out infinite;
-}
-
-img[style*="animation: pulse"] {
-  animation: pulse 2s ease-in-out infinite;
-}
-</style>
