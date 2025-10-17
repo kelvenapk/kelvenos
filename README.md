@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Creator;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Creator;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
 
 </div>
 
@@ -91,13 +91,9 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 ### 🎨 Criações Pessoais
 
-</div>
-
-<div align="center">
-
 | 🎨 Projeto | 📝 Descrição | 🔗 Link | ⭐ |
 |:---:|---|:---:|:---:|
-| **Kelvenos** | 🚀 Meu portfólio, perfil e universo digital - onde compartilho minha jornada | [Ver](https://github.com/kelvenapk/kelvenos) | ![Stars](https://img.shields.io/github/stars/kelvenapk/kelvenos?style=flat-square&color=00D9FF) |
+| **Kelvenos** | 🚀 Meu portfólio, perfil e universo digital - onde compartilho minha jornada | [Ver](https://github.com/kelvenapk/kelvenos) | ![Stars](https://img.shields.io/github/stars/kelvenapk/kelvenos?style=flat-square&color=B026FF) |
 
 </div>
 
@@ -135,9 +131,9 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvenapk&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&show_icons=true)](https://github.com/kelvenapk)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvenapk&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=B026FF&text_color=c9d1d9&icon_color=B026FF&show_icons=true)](https://github.com/kelvenapk)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&card_width=440&langs_count=8)](https://github.com/kelvenapk)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=B026FF&text_color=c9d1d9&card_width=440&langs_count=8)](https://github.com/kelvenapk)
 
 </div>
 
@@ -210,7 +206,7 @@ Uma combinação futurista que representa minha abordagem ao código!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
 
 </div>
 
