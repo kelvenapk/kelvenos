@@ -18,6 +18,14 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 <div align="center">
 
+| 👨‍💻 | 🎂 | 📍 | ⚡ |
+|:---:|:---:|:---:|:---:|
+| **Nome:** <br/> Kelven | **Idade:** <br/> 15 anos | **Local:** <br/> Ribeirão das Neves, MG 🇧🇷 | **Paixão:** <br/> Open Source & Performance |
+
+</div>
+
+<div align="center">
+
 | 👀 | 🌱 | 🤝 | 💬 |
 |:---:|:---:|:---:|:---:|
 | **Trabalhando em** <br/> Projetos Open Source | **Aprendendo** <br/> TypeScript & Next.js | **Procurando** <br/> Colaborar em inovações | **Me pergunte sobre** <br/> JavaScript, React, Node.js |
