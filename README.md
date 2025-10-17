@@ -1,247 +1,162 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kelvena%20APK&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?text=Kelvena%20Pinheiro%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=30" alt="Header"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&multiline=true&width=940&height=100&lines=%3C+Desenvolvedor+Full+Stack+%2F%3E;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<h1 align="center">Oi, sou Kelvena Pinheiro 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kelvenapk?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/FOCO-FULL_STACK-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-CODANDO-00FF00?style=for-the-badge&labelColor=1a1a2e&logo=visualstudiocode" alt="Status" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Construindo+o+futuro+com+código" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Ribeirão%20das%20Neves%2C%20MG-green?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/💼-Freelancer%20Full%20Stack-blue?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/🚀-15%2B%20Projetos%20Entregues-success?style=flat-square" alt="Projects" />
+  <img src="https://img.shields.io/badge/⭐-98%25%20Satisfação-yellow?style=flat-square" alt="Rating" />
 </p>
 
 ---
 
-## 🚀 SOBRE MIM
+## 🎯 **SOBRE MIM**
 
 ```javascript
 const kelvena = {
   nome: "Kelvena Pinheiro",
-  localização: "Ribeirão das Neves, MG 🇧🇷",
   cargo: "Desenvolvedor Full Stack | Tech Enthusiast",
+  localização: "Ribeirão das Neves, MG 🇧🇷",
   
-  código: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "React", "TailwindCSS"],
-    backend: ["Node.js", "Python", "Express.js", "API RESTful"],
+  techStack: {
+    frontend: ["HTML5", "CSS3", "JavaScript", "React", "TailwindCSS", "TypeScript"],
+    backend: ["Node.js", "Python", "Express.js", "API RESTful", "Next.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL"],
-    ferramentas: ["Git", "GitHub", "VS Code", "Figma", "Docker"]
+    devops: ["Git", "GitHub", "Docker", "AWS"],
+    tools: ["VS Code", "Figma", "Postman"]
   },
   
-  aprendendo_agora: ["TypeScript", "Next.js", "Docker", "AWS", "GraphQL"],
-  idiomas: ["Português 🇧🇷", "Inglês 🇺🇸"],
+  aprendendo: ["GraphQL", "Kubernetes", "Microservices"],
+  idiomas: ["Português Nativo 🇧🇷", "Inglês Intermediário 🇺🇸"],
   
-  desafio_atual: "Criar projetos que impactam vidas 💡",
-  mensagem: "Código limpo é código que conta histórias 📖"
+  filosofia: "Código limpo é código que conta histórias 📖",
+  objetivo: "Criar projetos que impactam vidas 💡"
 };
-
-console.log("Seja bem-vindo ao meu perfil! 👋");
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 💡 CURIOSIDADES SOBRE MIM:
-
-- 🔭 Atualmente trabalhando em projetos **open source**
-- 🌱 Estudando **TypeScript** e **Next.js**
-- 👯 Procurando colaborar em **projetos inovadores**
-- 💬 Me pergunte sobre **JavaScript, React, Node.js**
-- ⚡ Fato curioso: **Café é meu debugger favorito** ☕
-- 🎯 Objetivo 2025: **Contribuir mais para a comunidade dev**
-- 🎮 Hobbies: **Gaming, música e explorar novas tecnologias**
-
-<br clear="both"/>
-
----
-
-## 🛠️ ARSENAL TECNOLÓGICO
-
+🛠️ TECNOLOGIAS
+💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
+🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+🔧 Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+📊 ESTATÍSTICAS DO GITHUB
 <div align="center">
-
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,figma&theme=dark" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,django&theme=dark" />
-
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws&theme=dark" />
-
-### 🔧 Ferramentas & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman&theme=dark" />
-
-### 📚 Estudando
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,graphql,redis,kubernetes&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenapk&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 📊 ESTATÍSTICAS GITHUB
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenapk&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+🏆 CONQUISTAS
+https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=radical&no-frame=false&column=7
+🎯 PROJETOS DE CONTRIBUIÇÃO
+🖥️ Atlas OS
+Sistema operacional Windows otimizado para gamers e performance
+🌟 Tecnologias: PowerShell, Batch, Registry Optimization
+🚀 Contribuições: Scripts de otimização, documentação
+📊 Status: Contribuidor ativo
+🎮 Revision
+Playbook de otimização para sistemas Windows
+🌟 Tecnologias: PowerShell, YAML, Configuração de sistema
+🚀 Contribuições: Scripts de desinstalação, tweaks de performance
+🎯 Impacto: +10K usuários beneficiados
+💻 RaxOS
+Sistema operacional customizado focado em privacidade e performance
+🌟 Tecnologias: C++, PowerShell, System Programming
+🚀 Contribuições: Módulos de segurança, otimizações
+📊 Downloads: +5K mensais
+<div align="right">
+  <a href="https://github.com/kelvenapk?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20mais%20projetos-→-blue?style=for-the-badge" alt="More Projects" />
+  </a>
 </div>
-
----
-
-## 🏆 CONQUISTAS GITHUB
-
+💼 EXPERIÊNCIA
+Desenvolvedor Full Stack Freelancer
+2023 - Presente | 📍 Remoto
+Responsabilidades:
+✓ Desenvolvimento de aplicações web modernas e responsivas
+✓ Criação de APIs RESTful escaláveis com Node.js
+✓ Implementação de interfaces interativas com React
+✓ Gerenciamento e otimização de bancos de dados
+✓ Integração de sistemas e serviços third-party
+Conquistas:
+🎯 +15 projetos entregues com sucesso
+⭐ 98% de satisfação dos clientes
+📈 Código limpo seguindo clean code
+⏰ 100% dos prazos cumpridos
+🎓 CERTIFICAÇÕES
+<p>
+  <img src="https://img.shields.io/badge/Udemy-Desenvolvimento%20Web%20Completo%202024-A435F0?style=flat-square&logo=udemy" />
+  <img src="https://img.shields.io/badge/Curso%20em%20Vídeo-JavaScript%20Moderno%20(ES6%2B)-00A86B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rocketseat-Node.js%3A%20Do%20Zero%20à%20Produção-8257E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alura-React%3A%20Hooks%2C%20Context%20API%20e%20Redux-1572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/DIO-Git%20%26%20GitHub%20Essentials-1A0F1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coursera-Python%20para%20Data%20Science-0056D3?style=flat-square" />
+</p>
+🎯 OBJETIVOS 2025
+Table
+Copy
+Meta	Status	Progresso
+🚀 Contribuir em 5+ projetos open source	🟡 Em andamento	████████░░ 80%
+📚 Dominar TypeScript e Next.js	🟢 Concluído	██████████ 100%
+🌐 Lançar 3 projetos pessoais	🟡 Em andamento	██████░░░░ 60%
+💼 Conseguir posição Dev Pleno	🔴 Planejado	██░░░░░░░░ 20%
+🗣️ Inglês técnico avançado	🟡 Em andamento	███████░░░ 70%
+👥 Palestrar em 2 eventos tech	🔴 Planejado	█░░░░░░░░░ 10%
+📫 ENTRE EM CONTATO
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/seu-whatsapp" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/seu-telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </div>
-
----
-
-## 🎯 PROJETOS EM DESTAQUE
-
 <div align="center">
-
-<a href="https://github.com/kelvenapk/ChlorideOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=ChlorideOS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=kelvenapk&color=green" alt="Profile Views" />
 </div>
-
-<details>
-<summary>📂 <b>MAIS PROJETOS</b></summary>
-<br>
-
-| 🎨 Projeto | 📝 Descrição | 🔗 Link | ⭐ Stars |
-|:-----------|:-------------|:--------|:---------|
-| **ChlorideOS** | Sistema Operacional customizado | [Repo](https://github.com/kelvenapk/ChlorideOS) | ![Stars](https://img.shields.io/github/stars/kelvenapk/ChlorideOS?style=social) |
-| **Portfolio** | Meu site pessoal | Em breve 🚀 | - |
-| **API Project** | RESTful API com Node.js | Em breve 🚀 | - |
-
-</details>
-
----
-
-## 💼 EXPERIÊNCIA & FORMAÇÃO
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 👨‍💻 EXPERIÊNCIA PROFISSIONAL
-
-```yaml
-💼 Desenvolvedor Full Stack - Freelancer
-   📅 2023 - Presente
-   📍 Remoto
-   
-   Responsabilidades:
-     ✓ Desenvolvimento de aplicações web modernas e responsivas
-     ✓ Criação de APIs RESTful escaláveis com Node.js
-     ✓ Implementação de interfaces interativas com React
-     ✓ Gerenciamento e otimização de bancos de dados
-     ✓ Integração de sistemas e serviços third-party
-   
-   Conquistas:
-     🎯 +15 projetos entregues com sucesso
-     ⭐ 98% de satisfação dos clientes
-     📈 Código limpo seguindo clean code
-     ⏰ 100% dos prazos cumpridos
-```
-
-### 🎓 CERTIFICAÇÕES
-
-<details>
-<summary><b>Ver todas as certificações</b></summary>
-<br>
-
-- 🏅 **Desenvolvimento Web Completo 2024** - Udemy
-- 🏅 **JavaScript Moderno (ES6+)** - Curso em Vídeo
-- 🏅 **Node.js: Do Zero à Produção** - Rocketseat
-- 🏅 **React: Hooks, Context API e Redux** - Alura
-- 🏅 **Git & GitHub Essentials** - Digital Innovation One
-- 🏅 **Python para Data Science** - Coursera
-- 🏅 **SQL e Banco de Dados** - Udemy
-- 🏅 **Docker & Kubernetes** - Em andamento 🚀
-
-</details>
-
----
-
-## 📈 MÉTRICAS DE CÓDIGO
-
+💙 AGRADECIMENTOS
 <div align="center">
-
-```text
-💻 Total de Commits (2024)        ████████████████░░░░░   82%
-🔥 Dias de Streak Atual           ████████████░░░░░░░░░   65%
-📦 Projetos Públicos              ██████████████████░░░   89%
-⭐ Issues Resolvidas              ███████████████░░░░░░   75%
-🎯 Pull Requests Aceitos          ████████████████████░   96%
-```
-
-</div>
-
----
-
-## 🎯 OBJETIVOS 2025
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<div align="center">
-
-| Meta | Status | Progresso |
-|:-----|:-------|:----------|
-| 🚀 Contribuir em 5+ projetos open source | 🟡 Em andamento | ████████░░ 80% |
-| 📚 Dominar TypeScript e Next.js | 🟢 Concluído | ██████████ 100% |
-| 🌐 Lançar 3 projetos pessoais | 🟡 Em andamento | ██████░░░░ 60% |
-| 💼 Conseguir posição Dev Pleno | 🔴 Planejado | ██░░░░░░░░ 20% |
-| 🗣️ Inglês técnico avançado | 🟡 Em andamento | ███████░░░ 70% |
-| 👥 Palestrar em 2 eventos tech | 🔴 Planejado | █░░░░░░░░░ 10% |
-
-</div>
-
----
-
-## 🐍 CONTRIBUIÇÕES
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💬 CITAÇÃO ALEATÓRIA
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📫 ENTRE EM CONTATO
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-kelvenpinheiro710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvenpinheiro710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvena_Pinheiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvenapk)
-[![GitHub](https://img.shields.io/badge/GitHub-@kelvenapk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kelvenapk.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvenapk.dev)
-[![Discord](https://img.shields.io/badge/Discord-kelvenapk-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kelvenapk)
-[![Twitter](https://img.shields.io/badge/Twitter-@kelvenapk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kelvenapk)
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 OBRIGADO PELA VISITA!
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-```ascii
+Copy
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║   "Code is like humor. When you have to explain it,      ║
@@ -254,8 +169,4 @@ console.log("Seja bem-vindo ao meu perfil! 👋");
 ║   ⚡ Sempre aberto para novos desafios e colaborações!   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
 </div>
