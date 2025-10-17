@@ -213,24 +213,16 @@
 <div align="center">
 
 ### 💙 OBRIGADO PELA VISITA!
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+*"O código é poesia. Cada linha conta uma história."*
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "Code is like humor. When you have to explain it,      ║
-║    it's bad."                                             ║
-║                                          - Cory House     ║
-║                                                           ║
-║   💻 Transformando ideias em realidade, uma linha        ║
-║      por vez.                                             ║
-║                                                           ║
-║   ⚡ Sempre aberto para novos desafios e colaborações!   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+**⚡ Fun Fact:** Sempre aberto a novos desafios e aprendizados!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" />
 </div>
