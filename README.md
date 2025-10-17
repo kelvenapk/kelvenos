@@ -10,17 +10,13 @@
 
 ## 🚀 Sobre Mim
 
-```javascript
-const kelven = {
-  nome: "Kelven",
-  localização: "Ribeirão das Neves, MG - Brasil",
-  profissão: "Dev Fullstack | Open Source Contributor",
-  paixão: "Criar soluções inovadoras e otimizadas",
-  café: "Sim, sempre! ☕",
-  atualmente: "Contribuindo em projetos open source impactantes",
-  estudando: "TypeScript, Next.js, arquitetura de sistemas"
-};
-```
+<div align="center">
+
+**Kelven** - Dev Fullstack apaixonado por open source, otimização e criar soluções que fazem diferença.
+
+Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos open source impactantes enquanto estudo TypeScript, Next.js e arquitetura de sistemas. Café é meu combustível! ☕
+
+</div>
 
 <div align="center">
 
@@ -151,22 +147,7 @@ const kelven = {
 
 ---
 
-## 🏆 Destaques
 
-<div align="center">
-
-```
-🔥 Especialidades:
-├── 💻 Desenvolvimento Fullstack
-├── 🚀 Otimização de Performance
-├── 🔒 Privacidade & Segurança
-├── 📚 Open Source Contribution
-└── 🎯 Problem Solving Criativo
-```
-
-</div>
-
----
 
 ## 💭 Filosofia de Código
 
@@ -240,6 +221,8 @@ Uma combinação futurista que representa minha abordagem ao código!
 <div align="center">
 
 ### ⭐ Se gostou, deixe uma estrela!
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
