@@ -40,7 +40,7 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
   <tr>
     <td align="center" width="50%">
       <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; object-fit: cover;">
         <br/>
         <a href="https://github.com/Atlas-OS/Atlas">
           <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-0096FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
