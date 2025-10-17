@@ -40,7 +40,7 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
   <tr>
     <td align="center" width="50%">
       <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF;">
-        <img src="https://avatars.githubusercontent.com/u/88390358?s=200&v=4" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
         <br/>
         <a href="https://github.com/Atlas-OS/Atlas">
           <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-0096FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
@@ -61,7 +61,7 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
     </td>
     <td align="center" width="50%">
       <div style="border-radius: 15px; padding: 20px; background: rgba(255, 0, 64, 0.15); border: 2px solid #FF0040;">
-        <img src="https://avatars.githubusercontent.com/u/85328437?s=200&v=4" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://revi.cc/logo.svg" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
         <br/>
         <a href="https://github.com/meetrevision/playbook">
           <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-FF0040?style=for-the-badge&logoColor=white" alt="Revision Playbook">
