@@ -91,9 +91,9 @@ Acredito que o código é poesia e cada linha conta uma história. Sou obsessed 
 
 **Paleta de Cores**
 
-🔵 **Azul Cibernético (#00D9FF)** - Velocidade, inovação, futuro
-💜 **Roxo Místico (#B026FF)** - Criatividade, profundidade, magia
-🟣 **Magenta Elétrico (#FF10F0)** - Impacto, força, destaque
+🔵 **Azul Cibernético** - Velocidade, inovação, futuro
+💜 **Roxo Místico** - Criatividade, profundidade, magia
+🟣 **Magenta Elétrico** - Impacto, força, destaque
 
 Uma combinação futurista que representa minha abordagem ao código!
 
@@ -146,13 +146,24 @@ Estou sempre aberto para:
 
 ### ⭐ Se gostou, deixe uma estrela!
 
+[![Star](https://img.shields.io/badge/⭐%20DEIXE%20UMA%20ESTRELA-AGORA!-FFD700?style=for-the-badge&logoColor=white)](https://github.com/kelvenapk/kelvenos/stargazers)
+
+<br/>
+
 ```
-   ╔═══════════════════════════════════╗
-   ║  Made with 💜 by Kelven          ║
-   ║  © 2025 - All Rights Reserved    ║
-   ╚═══════════════════════════════════╝
+   ╔═══════════════════════════════════════════════════╗
+   ║                                                   ║
+   ║           ✨ Made with 💜 by Kelven ✨          ║
+   ║                                                   ║
+   ║            © 2025 - All Rights Reserved         ║
+   ║                                                   ║
+   ║    "Stay curious, stay coding, stay amazing"    ║
+   ║                                                   ║
+   ╚═══════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=flat-square&label=Profile+Views)
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=for-the-badge&label=Profile+Visitors)
 
 </div>
