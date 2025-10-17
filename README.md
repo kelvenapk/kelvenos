@@ -8,37 +8,19 @@
 
 ## 🚀 Sobre Mim
 
-<div align="center">
+```
+‹ Olá, sou KELVEN › 
+> Dev Fullstack | Open Source Creator
 
-### 👋 Olá! Meu nome é **KELVEN**
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
-**15 anos** | 📍 **Ribeirão das Neves, MG** 🇧🇷
-
----
-
-</div>
-
-<div align="center">
-
-Sou um **Dev Fullstack** apaixonado por **open source**, **performance** e **criar soluções que fazem diferença real**.
-
-Aos 15 anos, já estou **contribuindo em projetos impactantes** enquanto domino **TypeScript**, **Next.js** e **arquitetura de sistemas**.
-
-Minha missão? **Transformar ideias em código limpo, rápido e eficiente.** 🔥
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Meu Foco
-
-| 💻 | 🔥 | 🎓 | 🤝 |
-|:---:|:---:|:---:|:---:|
-| **Desenvolvimento** <br/> Fullstack Excellence | **Performance** <br/> Obsessed & Optimized | **Aprendizado** <br/> Contínuo & Profundo | **Comunidade** <br/> Open Source First |
-
-</div>
+📌 Nome: Kelven
+🎂 Idade: 15 anos
+📍 Localização: Ribeirão das Neves - SP
+🔧 Estudando: TypeScript, Next.js, Node.js, React, Git
+💡 Especialidade: Performance & Otimização
+🎯 Foco: Open Source & Soluções Inovadoras
+```
 
 ---
 
