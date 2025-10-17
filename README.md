@@ -150,20 +150,16 @@ Estou sempre aberto para:
 
 <br/>
 
+![Kelven Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Made+with+💜+by+Kelven;Open+Source+Developer+%7C+Performance+Enthusiast;Always+learning%2C+always+growing%2C+always+coding;© 2025 - Building the future%2C+one+line+at+a+time)
+
+<br/>
+
 ```
-   ╔═══════════════════════════════════════════════════╗
-   ║                                                   ║
-   ║           ✨ Made with 💜 by Kelven ✨          ║
-   ║                                                   ║
-   ║            © 2025 - All Rights Reserved         ║
-   ║                                                   ║
-   ║    "Stay curious, stay coding, stay amazing"    ║
-   ║                                                   ║
-   ╚═══════════════════════════════════════════════════╝
+🚀 Obrigado por visitar meu universo digital! 
 ```
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=for-the-badge&label=Profile+Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=for-the-badge&label=Visitantes)
 
 </div>
