@@ -1,8 +1,6 @@
-# <div align="center">👋 Olá, sou **Kelven**!</div>
+# <div align="center">
 
-<div align="center">
-
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Creator;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=B026FF&center=true&vCenter=true&width=900&lines=👋+Olá%2C+sou+KELVEN!;Dev+Fullstack+%7C+Open+Source+Creator;⚡+Performance+Obsessed;🔒+Privacy+Advocate;🚀+Building+the+Future)
 
 </div>
 
@@ -14,15 +12,15 @@
 
 **Kelven** - Dev Fullstack apaixonado por open source, otimização e criar soluções que fazem diferença.
 
-Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos open source impactantes enquanto estudo TypeScript, Next.js e arquitetura de sistemas. Café é meu combustível! ☕
+Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos open source impactantes enquanto estudo TypeScript, Next.js e arquitetura de sistemas.
 
 </div>
 
 <div align="center">
 
-| 👀 | 🌱 | 🤝 | 💬 | ⚡ |
-|:---:|:---:|:---:|:---:|:---:|
-| **Trabalhando em** <br/> Projetos Open Source | **Aprendendo** <br/> TypeScript & Next.js | **Procurando** <br/> Colaborar em inovações | **Me pergunte sobre** <br/> JavaScript, React, Node.js | **Fun Fact** <br/> Café é meu debugger! |
+| 👀 | 🌱 | 🤝 | 💬 |
+|:---:|:---:|:---:|:---:|
+| **Trabalhando em** <br/> Projetos Open Source | **Aprendendo** <br/> TypeScript & Next.js | **Procurando** <br/> Colaborar em inovações | **Me pergunte sobre** <br/> JavaScript, React, Node.js |
 
 </div>
 
@@ -39,8 +37,8 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; object-fit: cover;">
+      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF; transition: all 0.3s ease; box-shadow: 0 0 20px rgba(0, 150, 255, 0.1);">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; object-fit: cover; animation: float 3s ease-in-out infinite;">
         <br/>
         <a href="https://github.com/Atlas-OS/Atlas">
           <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-0096FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
@@ -60,8 +58,8 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
       </div>
     </td>
     <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(255, 0, 64, 0.15); border: 2px solid #FF0040;">
-        <img src="https://revi.cc/logo.svg" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+      <div style="border-radius: 15px; padding: 20px; background: rgba(255, 0, 64, 0.15); border: 2px solid #FF0040; transition: all 0.3s ease; box-shadow: 0 0 20px rgba(255, 0, 64, 0.1);">
+        <img src="https://revi.cc/logo.svg" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; animation: pulse 2s ease-in-out infinite;">
         <br/>
         <a href="https://github.com/meetrevision/playbook">
           <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-FF0040?style=for-the-badge&logoColor=white" alt="Revision Playbook">
@@ -155,37 +153,16 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 ---
 
-
-
 ## 💭 Filosofia de Código
 
 <div align="center">
 
-> ### *"O código é poesia. Cada linha conta uma história."*
-
-> ### *"Performance não é um luxo, é uma necessidade."*
-
-> ### *"Qualidade > Quantidade. Sempre."*
-
-> ### *"Open Source é o futuro da tecnologia."*
-
-</div>
-
----
-
-## 🎨 Meu Universo Digital
-
-<div align="center">
-
-### Paleta de Cores Especial
-
-🔵 **Azul Cibernético** (#00D9FF) - Velocidade, inovação, futuro
-
-💜 **Roxo Místico** (#B026FF) - Criatividade, profundidade, magia
-
-🟣 **Magenta Elétrico** (#FF10F0) - Impacto, força, destaque
-
-Uma combinação futurista que representa minha abordagem ao código!
+```
+✨ O código é poesia. Cada linha conta uma história.
+🔥 Performance não é um luxo, é uma necessidade.
+⭐ Qualidade > Quantidade. Sempre.
+🚀 Open Source é o futuro da tecnologia.
+```
 
 </div>
 
@@ -195,31 +172,58 @@ Uma combinação futurista que representa minha abordagem ao código!
 
 <div align="center">
 
-### Estou sempre aberto para:
-- 🤝 Colaborar em projetos open source impactantes
-- 💡 Compartilhar conhecimento e experiências
-- 🎓 Aprender com a comunidade incrível
-- 💼 Oportunidades profissionais desafiadoras
+Estou sempre aberto para colaborar, aprender e crescer!
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
+[![Email](https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
+[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
 
 </div>
 
 ---
 
-
-
-
-
 <div align="center">
 
 ### ⭐ Se gostou, deixe uma estrela!
 
+<br/>
+
+```
+✨ Made with 💜 by Kelven
+Dev Fullstack | Open Source Creator
+© 2025 - Code is Art ⚡
+```
+
+<br/>
+
 ![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=for-the-badge&label=Visitantes)
 
 </div>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+}
+
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 5px rgba(176, 38, 255, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(176, 38, 255, 0.6); }
+}
+
+img[style*="animation: float"] {
+  animation: float 3s ease-in-out infinite;
+}
+
+img[style*="animation: pulse"] {
+  animation: pulse 2s ease-in-out infinite;
+}
+</style>
