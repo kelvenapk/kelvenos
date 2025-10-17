@@ -39,9 +39,11 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 50, 100, 0.3); border: 2px solid #001F3F;">
+      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF;">
+        <img src="https://avatars.githubusercontent.com/u/88390358?s=200&v=4" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+        <br/>
         <a href="https://github.com/Atlas-OS/Atlas">
-          <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-001F3F?style=for-the-badge&logoColor=white" alt="Atlas OS">
+          <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-0096FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
         </a>
         <br/><br/>
         <p><b>✨ Modificação leve e transparente do Windows</b></p>
@@ -50,17 +52,19 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
         <p><strong>💡 Por que contribuo:</strong> Código transparente que respeita o usuário, maximiza performance e coloca controle nas mãos de quem usa.</p>
         <br/>
         <a href="https://github.com/Atlas-OS/Atlas">
-          <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=001F3F&label=Stars" alt="Stars">
-          <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=001F3F&label=Forks" alt="Forks">
+          <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=0096FF&label=Stars" alt="Stars">
+          <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=0096FF&label=Forks" alt="Forks">
         </a>
         <br/><br/>
-        🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #001F3F; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+        🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #0096FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
       </div>
     </td>
     <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(220, 20, 60, 0.2); border: 2px solid #DC143C;">
+      <div style="border-radius: 15px; padding: 20px; background: rgba(255, 0, 64, 0.15); border: 2px solid #FF0040;">
+        <img src="https://avatars.githubusercontent.com/u/85328437?s=200&v=4" width="80" height="80" style="border-radius: 10px; margin-bottom: 10px;">
+        <br/>
         <a href="https://github.com/meetrevision/playbook">
-          <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-DC143C?style=for-the-badge&logoColor=white" alt="Revision Playbook">
+          <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-FF0040?style=for-the-badge&logoColor=white" alt="Revision Playbook">
         </a>
         <br/><br/>
         <p><b>✨ Ferramenta de automação e customização</b></p>
@@ -69,11 +73,11 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
         <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível - é poesia em PowerShell.</p>
         <br/>
         <a href="https://github.com/meetrevision/playbook">
-          <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=DC143C&label=Stars" alt="Stars">
-          <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=DC143C&label=Forks" alt="Forks">
+          <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=FF0040&label=Stars" alt="Stars">
+          <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=FF0040&label=Forks" alt="Forks">
         </a>
         <br/><br/>
-        🔗 <a href="https://github.com/meetrevision/playbook" style="color: #DC143C; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+        🔗 <a href="https://github.com/meetrevision/playbook" style="color: #FF0040; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
       </div>
     </td>
   </tr>
