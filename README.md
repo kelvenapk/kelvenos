@@ -1,6 +1,6 @@
 # <div align="center">
 
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=B026FF&center=true&vCenter=true&width=900&lines=👋+Olá%2C+sou+KELVEN!;Dev+Fullstack+%7C+Open+Source+Creator;⚡+Performance+Obsessed;🔒+Privacy+Advocate;🚀+Building+the+Future)
+![KELVEN](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=50&duration=3000&pause=500&color=B026FF&center=true&vCenter=true&width=900&lines=KELVEN;Dev+Fullstack;Open+Source+Creator)
 
 </div>
 
