@@ -162,24 +162,36 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 ### ⭐ Se gostou, deixe uma estrela!
 
+</div>
+
+<div align="center">
+
+![Philosophy](https://img.shields.io/badge/✨%20Código%20é%20poesia-Cada%20linha%20conta%20uma%20história-B026FF?style=flat-square)
+
+![Performance](https://img.shields.io/badge/🔥%20Performance-Não%20é%20um%20luxo-B026FF?style=flat-square)
+
+</div>
+
+<div align="center">
+
+![Quality](https://img.shields.io/badge/⭐%20Qualidade%20%3E%20Quantidade-Sempre-B026FF?style=flat-square)
+
+![OpenSource](https://img.shields.io/badge/🚀%20Open%20Source-É%20o%20futuro-B026FF?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
+
+© 2025 - Code is Art ⚡
+
 <br/>
 
-![Philosophy](https://img.shields.io/badge/✨%20O%20código%20é%20poesia-Cada%20linha%20conta%20uma%20história-B026FF?style=flat-square)
+[![Discord](https://img.shields.io/badge/🎮_Join%20My%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
 
-![Performance](https://img.shields.io/badge/🔥%20Performance-Não%20é%20um%20luxo-0096FF?style=flat-square)
-
-![Quality](https://img.shields.io/badge/⭐%20Qualidade-Quantidade%20Sempre-FF0040?style=flat-square)
-
-![OpenSource](https://img.shields.io/badge/🚀%20Open%20Source-É%20o%20futuro%20da%20tecnologia-B026FF?style=flat-square)
-
-<br/><br/>
-
-![Made with Love](https://img.shields.io/badge/✨%20Made%20with%20💜%20by%20Kelven-Dev%20Fullstack%20%7C%20Open%20Source%20Creator-000000?style=for-the-badge&logo=github)
-
-![Code is Art](https://img.shields.io/badge/©%202025%20Code%20is%20Art%20⚡-Building%20the%20Future-B026FF?style=for-the-badge)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=for-the-badge&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=flat-square&label=Visitantes)
 
 </div>
