@@ -100,66 +100,7 @@
 
 ---
 
-## 💼 EXPERIÊNCIA & FORMAÇÃO
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 👨‍💻 EXPERIÊNCIA PROFISSIONAL
-
-```yaml
-💼 Desenvolvedor Full Stack - Freelancer
-   📅 2023 - Presente
-   📍 Remoto
-   
-   Responsabilidades:
-     ✓ Desenvolvimento de aplicações web modernas e responsivas
-     ✓ Criação de APIs RESTful escaláveis com Node.js
-     ✓ Implementação de interfaces interativas com React
-     ✓ Gerenciamento e otimização de bancos de dados
-     ✓ Integração de sistemas e serviços third-party
-   
-   Conquistas:
-     🎯 +15 projetos entregues com sucesso
-     ⭐ 98% de satisfação dos clientes
-     📈 Código limpo seguindo clean code
-     ⏰ 100% dos prazos cumpridos
-```
-
-### 🎓 CERTIFICAÇÕES
-
-<details>
-<summary><b>Ver todas as certificações</b></summary>
-<br>
-
-- 🏅 **Desenvolvimento Web Completo 2024** - Udemy
-- 🏅 **JavaScript Moderno (ES6+)** - Curso em Vídeo
-- 🏅 **Node.js: Do Zero à Produção** - Rocketseat
-- 🏅 **React: Hooks, Context API e Redux** - Alura
-- 🏅 **Git & GitHub Essentials** - Digital Innovation One
-- 🏅 **Python para Data Science** - Coursera
-- 🏅 **SQL e Banco de Dados** - Udemy
-- 🏅 **Docker & Kubernetes** - Em andamento 🚀
-
-</details>
-
----
-
-## 📈 MÉTRICAS DE CÓDIGO
-
-<div align="center">
-
-```text
-💻 Total de Commits (2024)        ████████████████░░░░░   82%
-🔥 Dias de Streak Atual           ████████████░░░░░░░░░   65%
-📦 Projetos Públicos              ██████████████████░░░   89%
-⭐ Issues Resolvidas              ███████████████░░░░░░   75%
-🎯 Pull Requests Aceitos          ████████████████████░   96%
-```
-
-</div>
-
----
-
+## 
 ## 🎯 OBJETIVOS 2025
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
