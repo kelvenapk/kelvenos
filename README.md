@@ -32,7 +32,7 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 <div align="center">
 
-### 🔥 Projetos Open Source que Transformam
+### 🔥 Projetos Open Source que Melhoram o Desempenho do Seu Windows
 
 </div>
 
