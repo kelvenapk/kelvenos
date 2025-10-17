@@ -1,6 +1,16 @@
-# <div align="center">
+<div align="center">
 
-![Kelven Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=👋+Olá%2C+sou+KELVEN!;Dev+Fullstack+%7C+Open+Source;TypeScript+%7C+React+%7C+Node.js;Performance+%26+Privacy+Advocate)
+```
+╔════════════════════════════════════════════════╗
+║                                                ║
+║     ‹ Olá, sou KELVEN › 👋                    ║
+║     Dev Fullstack | Open Source Enthusiast    ║
+║                                                ║
+║     > TypeScript • React • Next.js             ║
+║     > Performance • Privacy • Innovation       ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -150,12 +160,16 @@ Estou sempre aberto para:
 
 <br/>
 
-![Kelven Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Made+with+💜+by+Kelven;Open+Source+Developer+%7C+Performance+Enthusiast;Always+learning%2C+always+growing%2C+always+coding;© 2025 - Building the future%2C+one+line+at+a+time)
-
-<br/>
-
 ```
-🚀 Obrigado por visitar meu universo digital! 
+╔════════════════════════════════════════════════╗
+║                                                ║
+║      ✨ Made with 💜 by Kelven ✨             ║
+║      Dev Fullstack | Open Source Creator      ║
+║                                                ║
+║      © 2025 - Building the future             ║
+║      "Code is poetry, ship it with passion"   ║
+║                                                ║
+╚════════════════════════════════════════════════╝
 ```
 
 <br/>
