@@ -39,38 +39,42 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Atlas-OS/Atlas">
-        <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-00D9FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
-      </a>
-      <br/><br/>
-      <p><b>✨ Modificação leve e transparente do Windows</b></p>
-      <p>Otimiza performance extrema, máxima privacidade e usabilidade sem comprometer funcionalidades essenciais</p>
-      <br/>
-      <p><strong>💡 Por que contribuo:</strong> Código transparente que respeita o usuário, maximiza performance e coloca controle nas mãos de quem usa.</p>
-      <br/>
-      <a href="https://github.com/Atlas-OS/Atlas">
-        <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=00D9FF&label=Stars" alt="Stars">
-        <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=FF10F0&label=Forks" alt="Forks">
-      </a>
-      <br/><br/>
-      🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #00D9FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 50, 100, 0.3); border: 2px solid #001F3F;">
+        <a href="https://github.com/Atlas-OS/Atlas">
+          <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-001F3F?style=for-the-badge&logoColor=white" alt="Atlas OS">
+        </a>
+        <br/><br/>
+        <p><b>✨ Modificação leve e transparente do Windows</b></p>
+        <p>Otimiza performance extrema, máxima privacidade e usabilidade sem comprometer funcionalidades essenciais</p>
+        <br/>
+        <p><strong>💡 Por que contribuo:</strong> Código transparente que respeita o usuário, maximiza performance e coloca controle nas mãos de quem usa.</p>
+        <br/>
+        <a href="https://github.com/Atlas-OS/Atlas">
+          <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=001F3F&label=Stars" alt="Stars">
+          <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=001F3F&label=Forks" alt="Forks">
+        </a>
+        <br/><br/>
+        🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #001F3F; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+      </div>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/meetrevision/playbook">
-        <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-B026FF?style=for-the-badge&logoColor=white" alt="Revision Playbook">
-      </a>
-      <br/><br/>
-      <p><b>✨ Ferramenta de automação e customização</b></p>
-      <p>Automação segura, auditável e transparente que coloca você no controle total</p>
-      <br/>
-      <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível - é poesia em PowerShell.</p>
-      <br/>
-      <a href="https://github.com/meetrevision/playbook">
-        <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=B026FF&label=Stars" alt="Stars">
-        <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=FF10F0&label=Forks" alt="Forks">
-      </a>
-      <br/><br/>
-      🔗 <a href="https://github.com/meetrevision/playbook" style="color: #B026FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+      <div style="border-radius: 15px; padding: 20px; background: rgba(220, 20, 60, 0.2); border: 2px solid #DC143C;">
+        <a href="https://github.com/meetrevision/playbook">
+          <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-DC143C?style=for-the-badge&logoColor=white" alt="Revision Playbook">
+        </a>
+        <br/><br/>
+        <p><b>✨ Ferramenta de automação e customização</b></p>
+        <p>Automação segura, auditável e transparente que coloca você no controle total</p>
+        <br/>
+        <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível - é poesia em PowerShell.</p>
+        <br/>
+        <a href="https://github.com/meetrevision/playbook">
+          <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=DC143C&label=Stars" alt="Stars">
+          <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=DC143C&label=Forks" alt="Forks">
+        </a>
+        <br/><br/>
+        🔗 <a href="https://github.com/meetrevision/playbook" style="color: #DC143C; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
+      </div>
     </td>
   </tr>
 </table>
@@ -141,11 +145,11 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
 
 | 🚀 Meta | 📌 Status | 📈 Progresso |
 |---|---|---|
-| **Contribuir em 5+ projetos open source** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-80%25-00D9FF?style=flat-square) |
-| **Dominar TypeScript e Next.js** | 🟢 Concluído | ![Progress](https://img.shields.io/badge/Progress-100%25-00FF00?style=flat-square) |
+| **Contribuir em 5+ projetos open source** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-80%25-B026FF?style=flat-square) |
+| **Dominar TypeScript e Next.js** | 🟢 Concluído | ![Progress](https://img.shields.io/badge/Progress-100%25-B026FF?style=flat-square) |
 | **Lançar 3 projetos pessoais** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-60%25-B026FF?style=flat-square) |
-| **Conseguir posição Dev Pleno** | 🔴 Planejado | ![Progress](https://img.shields.io/badge/Progress-20%25-FF10F0?style=flat-square) |
-| **Inglês técnico avançado** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-70%25-00D9FF?style=flat-square) |
+| **Conseguir posição Dev Pleno** | 🔴 Planejado | ![Progress](https://img.shields.io/badge/Progress-20%25-B026FF?style=flat-square) |
+| **Inglês técnico avançado** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-70%25-B026FF?style=flat-square) |
 
 </div>
 
