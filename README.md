@@ -52,6 +52,8 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
         <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=00D9FF&label=Stars" alt="Stars">
         <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=FF10F0&label=Forks" alt="Forks">
       </a>
+      <br/><br/>
+      🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #00D9FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/meetrevision/playbook">
@@ -67,6 +69,8 @@ Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos o
         <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=B026FF&label=Stars" alt="Stars">
         <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=FF10F0&label=Forks" alt="Forks">
       </a>
+      <br/><br/>
+      🔗 <a href="https://github.com/meetrevision/playbook" style="color: #B026FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
     </td>
   </tr>
 </table>
@@ -212,36 +216,6 @@ Uma combinação futurista que representa minha abordagem ao código!
 
 ### ⭐ Se gostou, deixe uma estrela!
 
-<br/>
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│           ✨ Made with 💜 by Kelven ✨                      │
-│           Dev Fullstack | Open Source Creator               │
-│                                                              │
-│       🔵 Azul Cibernético • 💜 Roxo Místico • 🟣 Magenta   │
-│                                                              │
-│          © 2025 - Building the future, one line             │
-│               of code at a time ⚡                          │
-│                                                              │
-│  "Code is art. Performance is poetry. Share is magic." 🎨  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
 ![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=for-the-badge&label=Visitantes)
-
-</div>
-
----
-
-<div align="center">
-
-**Desenvolvido com 💜 e ☕ por Kelven**
-
-*Uma expressão da minha jornada no código*
 
 </div>
