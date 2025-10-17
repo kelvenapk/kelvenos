@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 ```javascript
-const kelvena = {
+const kelvenapk = {
     localização: "Ribeirão das Neves, MG 🇧🇷",
     role: "Developer & Tech Enthusiast",
     interesses: ["Sistemas Operacionais", "Desenvolvimento", "Open Source"],
@@ -95,7 +95,7 @@ const kelvena = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-kelvenapk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Email](https://img.shields.io/badge/Email-Contato-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvenapk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvenpinheiro71@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvenapk/)
 
 </div>
