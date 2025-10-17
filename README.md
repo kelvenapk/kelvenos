@@ -1,6 +1,17 @@
 # <div align="center">
 
-![KELVEN](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=50&duration=3000&pause=500&color=B026FF&center=true&vCenter=true&width=900&lines=KELVEN;Dev+Fullstack;Open+Source+Creator)
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  ‹ Olá, sou KELVEN ›                                     ║
+║  > Dev Fullstack | Open Source Creator                    ║
+║                                                            ║
+║  ⚡ Performance Obsessed                                  ║
+║  🔒 Privacy Advocate                                      ║
+║  🚀 Building the Future                                   ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -8,18 +19,25 @@
 
 ## 🚀 Sobre Mim
 
-```
-‹ Olá, sou KELVEN › 
-> Dev Fullstack | Open Source Creator
+<div align="center">
 
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+![KELVEN Profile](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=40&duration=3000&pause=500&color=B026FF&center=true&vCenter=true&width=800&lines=KELVEN;15+anos;Dev+Fullstack;Open+Source+Creator;@+Ribeirão+das+Neves+-+MG)
+
+</div>
+
+---
+
+```
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 📌 Nome: Kelven
 🎂 Idade: 15 anos
-📍 Localização: Ribeirão das Neves - SP
-🔧 Estudando: TypeScript, Next.js, Node.js, React, Git
+📍 Localização: Ribeirão das Neves - MG 🇧🇷
+🔧 Estudando: TypeScript, Next.js, Node.js, React
 💡 Especialidade: Performance & Otimização
 🎯 Foco: Open Source & Soluções Inovadoras
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 ```
 
 ---
