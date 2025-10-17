@@ -10,27 +10,37 @@
 
 <div align="center">
 
-**Kelven** - Dev Fullstack apaixonado por open source, otimização e criar soluções que fazem diferença.
+### 👋 Olá! Meu nome é **KELVEN**
 
-Sou um criador de soluções inovadoras e otimizadas. Contribuindo em projetos open source impactantes enquanto estudo TypeScript, Next.js e arquitetura de sistemas.
+**15 anos** | 📍 **Ribeirão das Neves, MG** 🇧🇷
 
-</div>
-
-<div align="center">
-
-| 👨‍💻 | 🎂 | 📍 | ⚡ |
-|:---:|:---:|:---:|:---:|
-| **Nome:** <br/> Kelven | **Idade:** <br/> 15 anos | **Local:** <br/> Ribeirão das Neves, MG 🇧🇷 | **Paixão:** <br/> Open Source & Performance |
+---
 
 </div>
 
 <div align="center">
 
-| 👀 | 🌱 | 🤝 | 💬 |
-|:---:|:---:|:---:|:---:|
-| **Trabalhando em** <br/> Projetos Open Source | **Aprendendo** <br/> TypeScript & Next.js | **Procurando** <br/> Colaborar em inovações | **Me pergunte sobre** <br/> JavaScript, React, Node.js |
+Sou um **Dev Fullstack** apaixonado por **open source**, **performance** e **criar soluções que fazem diferença real**.
+
+Aos 15 anos, já estou **contribuindo em projetos impactantes** enquanto domino **TypeScript**, **Next.js** e **arquitetura de sistemas**.
+
+Minha missão? **Transformar ideias em código limpo, rápido e eficiente.** 🔥
 
 </div>
+
+---
+
+<div align="center">
+
+### 🎯 Meu Foco
+
+| 💻 | 🔥 | 🎓 | 🤝 |
+|:---:|:---:|:---:|:---:|
+| **Desenvolvimento** <br/> Fullstack Excellence | **Performance** <br/> Obsessed & Optimized | **Aprendizado** <br/> Contínuo & Profundo | **Comunidade** <br/> Open Source First |
+
+</div>
+
+---
 
 ---
 
