@@ -204,17 +204,7 @@ Uma combinação futurista que representa minha abordagem ao código!
 
 ---
 
-## 📚 Leia Também
 
-<div align="center">
-
-- 🎥 [Meus Projetos](https://github.com/kelvenapk?tab=repositories) - Explore meu código
-- 🌟 [Onde Contribuo](https://github.com/Atlas-OS/Atlas) - Veja meu impacto
-- 💬 [Discussões](https://github.com/kelvenapk/kelvenos/discussions) - Vamos conversar!
-
-</div>
-
----
 
 
 
@@ -225,19 +215,19 @@ Uma combinação futurista que representa minha abordagem ao código!
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║           ✨ Made with 💜 by Kelven ✨                      ║
-║           Dev Fullstack | Open Source Creator               ║
-║                                                              ║
-║       🔵 Azul Cibernético • 💜 Roxo Místico • 🟣 Magenta   ║
-║                                                              ║
-║          © 2025 - Building the future, one line             ║
-║               of code at a time ⚡                          ║
-║                                                              ║
-║  "Code is art. Performance is poetry. Share is magic." 🎨  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│           ✨ Made with 💜 by Kelven ✨                      │
+│           Dev Fullstack | Open Source Creator               │
+│                                                              │
+│       🔵 Azul Cibernético • 💜 Roxo Místico • 🟣 Magenta   │
+│                                                              │
+│          © 2025 - Building the future, one line             │
+│               of code at a time ⚡                          │
+│                                                              │
+│  "Code is art. Performance is poetry. Share is magic." 🎨  │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
