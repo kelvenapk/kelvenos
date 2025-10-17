@@ -235,21 +235,7 @@ Uma combinação futurista que representa minha abordagem ao código!
 
 ---
 
-## ⚡ O Que Me Motiva
 
-<div align="center">
-
-```
-✨ Criar impacto real - Código que muda vidas, não só números
-🔥 Performance obsessed - Cada milissegundo importa
-🔒 Privacidade & Transparência - Dados devem estar protegidos
-🤝 Comunidade & Open Source - Compartilhar é crescer
-📚 Aprendizado contínuo - Tecnologia muda, eu acompanho
-```
-
-</div>
-
----
 
 <div align="center">
 
@@ -273,7 +259,7 @@ Uma combinação futurista que representa minha abordagem ao código!
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=00D9FF&style=for-the-badge&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=for-the-badge&label=Visitantes)
 
 </div>
 
