@@ -151,14 +151,7 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-<!-- Métricas Adicionais -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kelvenapk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&layout=compact&border_radius=10" alt="WakaTime Stats" />
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="GitHub Trophies" />
 
 </div>
 
@@ -168,16 +161,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvenapk&theme=tokyonight" alt="Profile Details" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvenapk&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
 <div align="center">
 
 <!-- Cards de commits e linguagens -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvenapk&theme=tokyonight" alt="Repos Per Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvenapk&theme=tokyonight" alt="Most Commit Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelvenapk&theme=tokyonight" alt="Stats Card" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvenapk&theme=tokyonight" alt="Repos Per Language" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvenapk&theme=tokyonight" alt="Most Commit Language" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelvenapk&theme=tokyonight" alt="Stats Card" />
 
 </div>
 
@@ -199,13 +192,12 @@
 
 ---
 
-## 🔥 Streak & Atividade Recente
+---
+
+## 🐍 Contribuições
 
 <div align="center">
-
-<!-- Calendário de contribuições Isométrico -->
-<img src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" alt="Extended Stats" />
-
+  <img src="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
