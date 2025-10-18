@@ -125,23 +125,23 @@
 <div align="center">
 
 <!-- Stats Cards com tema roxo customizado -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF&ring_color=9D4EDD&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenapk&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=B026FF&fire=9D4EDD&currStreakLabel=FFFFFF&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=10" alt="GitHub Streak" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF&ring_color=9D4EDD&border_radius=10" alt="GitHub Stats" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenapk&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=B026FF&fire=9D4EDD&currStreakLabel=FFFFFF&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
 <!-- Languages e Activity Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kelvenapk&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_radius=10&langs_count=6" alt="Top Languages" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kelvenapk&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph Full Width -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&custom_title=📈%20Gráfico%20de%20Contribuições&bg_color=0D1117&color=9D4EDD&line=B026FF&point=FFFFFF&area=true&hide_border=true&area_color=9D4EDD" alt="Contribution Graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&custom_title=📈%20Gráfico%20de%20Contribuições&bg_color=0D1117&color=9D4EDD&line=B026FF&point=FFFFFF&area=true&hide_border=true&area_color=9D4EDD" alt="Contribution Graph" />
 
 </div>
 
