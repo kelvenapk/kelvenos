@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Construindo+o+futuro+com+c%C3%B3digo+%F0%9F%9A%80;Performance+%7C+Privacy+%7C+Open+Source)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 <!-- 🚀 SOBRE MIM – roxo minimalista -->
@@ -32,8 +38,37 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=9333EA" />
+  <img src="https://img.shields.io/github/followers/kelvenapk?label=Followers&style=flat-square&color=B026FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/kelvenapk?label=Stars&style=flat-square&color=9D4EDD&logo=github" />
 </p>
 <!-- fim do bloco -->
+
+---
+
+<div align="center">
+
+## 💜 Sobre Mim
+
+```typescript
+const kelven = {
+    location: "Ribeirão das Neves, MG 🇧🇷",
+    age: 15,
+    role: "Fullstack Developer",
+    code: ["TypeScript", "JavaScript", "Node.js", "PowerShell"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        devOps: ["Docker", "Git", "GitHub Actions"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+    },
+    currentFocus: "Building performant & privacy-focused applications",
+    philosophy: "Code is poetry, performance is not a luxury 🚀"
+};
+```
+
+</div>
+
+---
 
 ## 🤝 Onde Eu Contribuo
 
@@ -138,10 +173,12 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- Activity Graph Full Width -->
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&custom_title=📈%20Gráfico%20de%20Contribuições&bg_color=0D1117&color=9D4EDD&line=B026FF&point=FFFFFF&area=true&hide_border=true&area_color=9D4EDD&height=300" alt="Contribution Graph" />
+<!-- Activity Graph Full Width com visual aprimorado -->
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&custom_title=📈%20Contribuições%20nos%20Últimos%2012%20Meses&bg_color=0D1117&color=9D4EDD&line=B026FF&point=FFFFFF&area=true&hide_border=true&area_color=9D4EDD&height=300" alt="Contribution Graph" />
 
 </div>
 
@@ -192,6 +229,18 @@
 
 ---
 
+## 💻 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/kelvenapk?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=ChlorideOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -205,13 +254,21 @@ Estou sempre aberto para colaborar, aprender e crescer!
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
 [![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
 
+<br/>
+
+### 📫 Ou me encontre aqui:
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ Se gostou, deixe uma estrela!
+### ⭐ Se gostou, deixe uma estrela nos meus projetos!
 
 </div>
 
@@ -227,6 +284,10 @@ Estou sempre aberto para colaborar, aprender e crescer!
 ---
 
 <div align="center">
+
+### 💜 Obrigado pela visita!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
 
