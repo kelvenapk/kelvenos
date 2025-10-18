@@ -1,5 +1,9 @@
 name: Generate Snake Animation
 
+# Permissões necessárias
+permissions:
+  contents: write
+
 on:
   # Executa a cada 12 horas
   schedule:
@@ -17,6 +21,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    
+    permissions:
+      contents: write
     
     steps:
       # Checkout do repositório
