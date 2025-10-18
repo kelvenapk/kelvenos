@@ -130,6 +130,50 @@
 
 ---
 
+## 🎯 Metas 2025
+
+<div align="center">
+
+| 🚀 Meta | 📌 Status | 📈 Progresso |
+|---|---|---|
+| **Contribuir em 5+ projetos open source** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-80%25-B026FF?style=flat-square) |
+| **Dominar TypeScript e Next.js** | 🟢 Concluído | ![Progress](https://img.shields.io/badge/Progress-100%25-B026FF?style=flat-square) |
+| **Lançar 3 projetos pessoais** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-60%25-B026FF?style=flat-square) |
+| **Conseguir posição Dev Pleno** | 🔴 Planejado | ![Progress](https://img.shields.io/badge/Progress-20%25-B026FF?style=flat-square) |
+| **Inglês técnico avançado** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-70%25-B026FF?style=flat-square) |
+
+</div>
+
+---
+
+## 💻 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/Atlas-OS/Atlas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atlas-OS&repo=Atlas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+Estou sempre aberto para colaborar, aprender e crescer!
+
+<br/>
+
+[![Email](https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
+[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
+
+</div>
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -183,59 +227,6 @@
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvenapk&theme=tokyonight" alt="Repos Per Language" />
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvenapk&theme=tokyonight" alt="Most Commit Language" />
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelvenapk&theme=tokyonight" alt="Stats Card" />
-
-</div>
-
----
-
-## 🎯 Metas 2025
-
-<div align="center">
-
-| 🚀 Meta | 📌 Status | 📈 Progresso |
-|---|---|---|
-| **Contribuir em 5+ projetos open source** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-80%25-B026FF?style=flat-square) |
-| **Dominar TypeScript e Next.js** | 🟢 Concluído | ![Progress](https://img.shields.io/badge/Progress-100%25-B026FF?style=flat-square) |
-| **Lançar 3 projetos pessoais** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-60%25-B026FF?style=flat-square) |
-| **Conseguir posição Dev Pleno** | 🔴 Planejado | ![Progress](https://img.shields.io/badge/Progress-20%25-B026FF?style=flat-square) |
-| **Inglês técnico avançado** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-70%25-B026FF?style=flat-square) |
-
-</div>
-
----
-
-## 💻 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/Atlas-OS/Atlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atlas-OS&repo=Atlas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-Estou sempre aberto para colaborar, aprender e crescer!
-
-<br/>
-
-[![Email](https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
-
-<br/>
-
-### 📫 Ou me encontre aqui:
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 </div>
 
