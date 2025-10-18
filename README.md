@@ -45,31 +45,6 @@
 
 ---
 
-<div align="center">
-
-## 💜 Sobre Mim
-
-```typescript
-const kelven = {
-    location: "Ribeirão das Neves, MG 🇧🇷",
-    age: 15,
-    role: "Fullstack Developer",
-    code: ["TypeScript", "JavaScript", "Node.js", "PowerShell"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
-        devOps: ["Docker", "Git", "GitHub Actions"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-    },
-    currentFocus: "Building performant & privacy-focused applications",
-    philosophy: "Code is poetry, performance is not a luxury 🚀"
-};
-```
-
-</div>
-
----
-
 ## 🤝 Onde Eu Contribuo
 
 <div align="center">
@@ -233,8 +208,8 @@ const kelven = {
 
 <div align="center">
 
-<a href="https://github.com/kelvenapk?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=ChlorideOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
+<a href="https://github.com/Atlas-OS/Atlas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atlas-OS&repo=Atlas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
 </a>
 
 </div>
