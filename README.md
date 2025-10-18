@@ -2,15 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+Kelven!;💜+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
+
+
 <div align="center">
 
 ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Enthusiast;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
 
 </div>
 
+
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Construindo+o+futuro+com+c%C3%B3digo+%F0%9F%9A%80;Performance+%7C+Privacy+%7C+Open+Source)](https://git.io/typing-svg)
+
 
 </div>
 
