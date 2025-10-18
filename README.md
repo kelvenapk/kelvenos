@@ -1,4 +1,6 @@
-# <div align="center">👋 Olá, sou **Kelven**!</div>
+# <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+Kelven!;💜+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
